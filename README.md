@@ -1,2 +1,2 @@
 # CodeChallengesSolutions
-My Solutions for Various Code Challenges
+My solutions for various code challenges
