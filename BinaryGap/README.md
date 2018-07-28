@@ -1,5 +1,5 @@
 # BinaryGap
-My solution to the binary gap problem, with a correctness of 80% as some tests fail.
+My solution to the binary gap problem, with a correctness of 100%.
 
 ### Problem statement 
 A binary gap within a positive integer N is any maximal sequence of consecutive zeros that is surrounded by ones at both ends in the binary representation of N.
